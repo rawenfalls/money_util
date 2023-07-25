@@ -18,4 +18,4 @@ go build money_util.go
 ```
 money_util.exe --code=USD --date=2023-07-25
 ```
-#### __USD (Доллар США): 90,4890__
+###### _USD (Доллар США): 90,4890_
