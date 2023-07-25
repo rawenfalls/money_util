@@ -16,6 +16,6 @@ go build money_util.go
 	* date - дата в формате YYYY-MM-DD
 * Пример работы:
 ```
-money_util.exe --code=4217 --date=2023-07-25
+money_util.exe --code=USD --date=2023-07-25
 //USD (Доллар США): 90,4890
 ```
