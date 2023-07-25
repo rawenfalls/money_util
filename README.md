@@ -1,5 +1,5 @@
 # Консольная утилита, которая выводит курсы валют ЦБ РФ за определенную дату.
-###Для получения курсов необходимо использовать официальный API ЦБ РФ https://www.cbr.ru/development/sxml/.
+### Для получения курсов необходимо использовать официальный API ЦБ РФ https://www.cbr.ru/development/sxml/.
 * Установка:
 ```
 git clone https://github.com/rawenfalls/money_util.git
