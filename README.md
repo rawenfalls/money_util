@@ -8,6 +8,10 @@ git clone https://github.com/rawenfalls/money_util.git
 ```
 go build money_util.go
 ```
+* Запуск:
+```
+go run money_util.go
+```
 * Интерфейс:
 	* currency_rates --code=USD --date=2022-10-08
 
